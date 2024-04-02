@@ -19,6 +19,7 @@ Previsouly, I was an Applied Scientist Intern at Amazon Robotics to work on mult
 - **[Feb. 2024]**: Our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" has been accepted to [EuroSys'24](https://2024.eurosys.org/).
 - **[Sept. 2023]**: Our work "[Flow: Per-instance Personalized Federated Learning](https://guanh01.github.io/files/2023flow.pdf)" has been accepted to [NeurIPS'23](https://nips.cc/).
 - **[Sept. 2023]**: Receive the [2023 IBM PhD Fellowship Award](https://research.ibm.com/university/awards/fellowships-awardees.html).
+- **[May. 2023]**: Start an internship in Amazon Robotics.
 - **[Sept. 2022]**: Our paper "[AutoMTL: A Programming Framework for Automating Efficient Multi-Task Learning](http://guanh01.github.io/files/2022automtl.pdf)" has been accepted to [NeurIPS'22](https://nips.cc/).
 - **[May. 2022]**: Our paper "[A Tree-Structured Multi-Task Model Recommender](http://guanh01.github.io/files/2022automl.pdf)" has been accepted to [AutoML'22](https://automl.cc/).
 - **[Mar. 2022]**: Our paper "[Rethinking Hard-Parameter Sharing in Multi-Domain Learning](http://guanh01.github.io/files/2022rethinking.pdf)" has been accepted to [ICME'22](http://2022.ieeeicme.org/).
