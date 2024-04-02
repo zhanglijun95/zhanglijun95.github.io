@@ -1,9 +1,4 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+
 ## Preprints
 - **[Jan. 24] Robust Image Watermarking using Stable Diffusion.** [[PDF](https://arxiv.org/pdf/2401.04247v1.pdf)][[Code](https://github.com/zhanglijun95/ZoDiac)]
 <br> **Lijun Zhang**, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan.
