@@ -21,7 +21,7 @@ repository               : "zhanglijun95/zhanglijun95.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lijun.png"
   name             : "Lijun Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate <br> <a href = \"https://www.cics.umass.edu\">College of Information & Computer Sciences</a> <br> University of Massachusetts Amherst"
