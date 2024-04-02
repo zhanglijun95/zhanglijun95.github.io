@@ -9,7 +9,7 @@ author_profile: true
 - **[Jan. 24] Robust Image Watermarking using Stable Diffusion.** [[PDF](https://arxiv.org/pdf/2401.04247v1.pdf)][[Code](https://github.com/zhanglijun95/ZoDiac)]
 <br> **Lijun Zhang**, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan.
 
-- **[Dec. 23] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [[PDF](https://arxiv.org/pdf/2305.12066v3.pdf)]
+- **[Dec. 23] Multi-Task Models Adversarial Attacks.** [[PDF](https://arxiv.org/pdf/2305.12066v3.pdf)]
 <br> **Lijun Zhang**, Xiao Liu, Kaleel Mahmood, Caiwen Ding, Hui Guan.
 
 ## Publicactions
