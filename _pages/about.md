@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fifth-year Ph.D. student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/).
 Before coming to UMass, I got my Master's and Bachelor's degrees in the School of Software Engineering, Tongji University, advised by [Prof. Lin Zhang](https://cslinzhang.gitee.io/home/).
-My research interests are Automated Machine Learning and Computer Vision and mainly focus on Multi-Task Learning and Diffsuion Models.
+My research interests are Automated Machine Learning and Computer Vision and mainly focus on Multi-Task Learning and Diffusion Models.
 
 I will start my internship at Advanced Technology Group (ATG) in Dolby Laboratories this summer.
 Previsouly, I was an Applied Scientist Intern at Amazon Robotics to work on multi-task model infrastructure construction. 
