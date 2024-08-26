@@ -7,17 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/).
+I am a last-year Ph.D. student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/).
 Before coming to UMass, I got my Master's and Bachelor's degrees in the School of Software Engineering, Tongji University, advised by [Prof. Lin Zhang](https://cslinzhang.gitee.io/home/).
 My research interests are Automated Machine Learning and Computer Vision and mainly focus on Multi-Task Learning and Diffusion Models.
 
-I will start my internship at Advanced Technology Group (ATG) in Dolby Laboratories this summer.
-Previsouly, I was an Applied Scientist Intern at Amazon Robotics to work on multi-task model infrastructure construction. 
-
-I'm actively looking for post-doc opportunity starting from 2025 Fall. Contact me if you are interested to learn more about me. Thank you!
+**Update:** I'll join Amazon Robotics as a Postdoc Scientist in 2025 Summer. 
 
 ## News
 
+- **[May. 2024]**: Start an internship at Advanced Technology Group (ATG) in Dolby Laboratories.
 - **[Feb. 2024]**: Our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" has been accepted to [EuroSys'24](https://2024.eurosys.org/).
 - **[Sept. 2023]**: Our work "[Flow: Per-instance Personalized Federated Learning](https://guanh01.github.io/files/2023flow.pdf)" has been accepted to [NeurIPS'23](https://nips.cc/).
 - **[Sept. 2023]**: Receive the [2023 IBM PhD Fellowship Award](https://research.ibm.com/university/awards/fellowships-awardees.html).
@@ -40,9 +38,9 @@ I'm actively looking for post-doc opportunity starting from 2025 Fall. Contact m
 ## Services
 - **Reviewer:** 
     - ICML 2023-2024
-    - ICLR 2023-2024
+    - ICLR 2023-2025
     - CVPR 2024
-    - NeurIPS 2022-2023
+    - NeurIPS 2022-2024
     - IEEE Transactions on Image Processing
 - **Program Committee:**
-    - AIGC 2023
+    - AIGC 2023-2024
