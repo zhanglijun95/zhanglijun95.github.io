@@ -14,7 +14,8 @@ My research interests are Automated Machine Learning and Computer Vision and mai
 **Update:** I'll join Amazon Robotics as a Postdoc Scientist in 2025 Summer. 
 
 ## News
-
+- **[Sept. 2024]**: Our work "[Attack-Resilient Image Watermarking Using Stable Diffusion](https://arxiv.org/pdf/2401.04247)" has been accepted to [NeurIPS'24](https://nips.cc/).
+- **[Sept. 2024]**: Our work "[Thinking Forward: Memory-Efficient Federated Finetuning of Language Models](https://arxiv.org/pdf/2405.15551)" has been accepted to [NeurIPS'24](https://nips.cc/).
 - **[May. 2024]**: Start an internship at Advanced Technology Group (ATG) in Dolby Laboratories.
 - **[Feb. 2024]**: Our work "GMorph: Accelerating Multi-DNN Inference via Model Fusion" has been accepted to [EuroSys'24](https://2024.eurosys.org/).
 - **[Sept. 2023]**: Our work "[Flow: Per-instance Personalized Federated Learning](https://guanh01.github.io/files/2023flow.pdf)" has been accepted to [NeurIPS'23](https://nips.cc/).
@@ -26,8 +27,8 @@ My research interests are Automated Machine Learning and Computer Vision and mai
 - **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" has been accepted to Information Systems.
 
 ## Awards
-
-- \[2023\] IBM Ph.D. Fellowhsip
+- \[2024\] UMass CICS PhD Writing Fellowship
+- \[2023\] IBM Ph.D. Fellowship
 - \[2022\] Scholar Award & Top Reviewer, NeurIPS
 - \[2022\] Travel Grant Award, Conf-AutoML
 - \[2020\] The Lori a. Clarke Scholarship, UMass
@@ -42,5 +43,4 @@ My research interests are Automated Machine Learning and Computer Vision and mai
     - CVPR 2024
     - NeurIPS 2022-2024
     - IEEE Transactions on Image Processing
-- **Program Committee:**
     - AIGC 2023-2024
