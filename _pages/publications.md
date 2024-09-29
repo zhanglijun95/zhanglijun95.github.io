@@ -6,13 +6,16 @@ author_profile: true
 ---
 
 ## Preprints
-- **[Jan. 24] Robust Image Watermarking using Stable Diffusion.** [[PDF](https://arxiv.org/pdf/2401.04247v1.pdf)][[Code](https://github.com/zhanglijun95/ZoDiac)]
-<br> **Lijun Zhang**, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan.
-
 - **[Dec. 23] Multi-Task Models Adversarial Attacks.** [[PDF](https://arxiv.org/pdf/2305.12066v3.pdf)]
 <br> **Lijun Zhang**, Xiao Liu, Kaleel Mahmood, Caiwen Ding, Hui Guan.
 
 ## Publicactions
+- **[NeurIPS'24] Attack-Resilient Image Watermarking Using Stable Diffusion.** [[PDF](https://arxiv.org/pdf/2401.04247v1.pdf)][[Code](https://github.com/zhanglijun95/ZoDiac)]
+<br> **Lijun Zhang**, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan.
+
+- **[NeurIPS'24] Thinking Forward: Memory-Efficient Federated Finetuning of Language Models.** [[PDF](https://arxiv.org/pdf/2405.15551)]
+<br> Kunjal Panchal, Nisarg Parikh, Sunav Choudhary, **Lijun Zhang**, Yuriy Brun, Hui Guan.
+
 - **[EuroSys'24] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [[PDF](http://guanh01.github.io/files/2024eurosys-gmorph.pdf)][[Code](https://github.com/qizhengyang98/GMorph/tree/master)]
 <br> Qizheng Yang, Tianyi Yang, Mingcan Xiang, **Lijun Zhang**, Haoliang Wang, Marco Serafini, Hui Guan.
 <br> The 2024 European Conference on Computer Systems (EuroSys), April 22-25, 2024.
