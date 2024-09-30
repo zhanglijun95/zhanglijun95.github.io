@@ -27,7 +27,7 @@ My research interests are Automated Machine Learning and Computer Vision and mai
 - **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" has been accepted to Information Systems.
 
 ## Awards
-- \[2024\] UMass CICS PhD Writing Fellowship
+- \[2024\] UMass CICS PhD Dissertation Writing Fellowship
 - \[2023\] IBM Ph.D. Fellowship
 - \[2022\] Scholar Award & Top Reviewer, NeurIPS
 - \[2022\] Travel Grant Award, Conf-AutoML
