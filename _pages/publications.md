@@ -6,15 +6,25 @@ author_profile: true
 ---
 
 ## Preprints
+- **[May 25] Communication-Efficient Multi-Device Inference Acceleration for Transformer Models.** [[PDF](https://arxiv.org/pdf/2505.19342?)]
+<br> Xiao Liu, **Lijun Zhang**, Deepak Ganesan, Hui Guan.
+
 - **[Dec. 23] Multi-Task Models Adversarial Attacks.** [[PDF](https://arxiv.org/pdf/2305.12066v3.pdf)]
 <br> **Lijun Zhang**, Xiao Liu, Kaleel Mahmood, Caiwen Ding, Hui Guan.
 
 ## Publicactions
+- **[EXAIT@ICML'25] Reimagining Parameter Space Exploration with Diffusion Models.** [[PDF](https://arxiv.org/pdf/2506.17807)]
+<br> **Lijun Zhang**, Xiao Liu, Hui Guan.
+
 - **[NeurIPS'24] Attack-Resilient Image Watermarking Using Stable Diffusion.** [[PDF](https://arxiv.org/pdf/2401.04247v1.pdf)][[Code](https://github.com/zhanglijun95/ZoDiac)]
 <br> **Lijun Zhang**, Xiao Liu, Antoni Viros Martin, Cindy Xiong Bearfield, Yuriy Brun, Hui Guan.
 
 - **[NeurIPS'24] Thinking Forward: Memory-Efficient Federated Finetuning of Language Models.** [[PDF](https://arxiv.org/pdf/2405.15551)]
 <br> Kunjal Panchal, Nisarg Parikh, Sunav Choudhary, **Lijun Zhang**, Yuriy Brun, Hui Guan.
+
+- **[IEEE Access'24] Information-Enhanced Graph Neural Network for Transcending Homophily Barriers.** [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10810421)] 
+<br> Xiao Liu, **Lijun Zhang**, Hui Guan. 
+<br> In IEEE Access, 2024.
 
 - **[EuroSys'24] GMorph: Accelerating Multi-DNN Inference via Model Fusion.** [[PDF](http://guanh01.github.io/files/2024eurosys-gmorph.pdf)][[Code](https://github.com/qizhengyang98/GMorph/tree/master)]
 <br> Qizheng Yang, Tianyi Yang, Mingcan Xiang, **Lijun Zhang**, Haoliang Wang, Marco Serafini, Hui Guan.

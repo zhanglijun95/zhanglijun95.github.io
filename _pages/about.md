@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a last-year Ph.D. student in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/).
-Before coming to UMass, I got my Master's and Bachelor's degrees in the School of Software Engineering, Tongji University, advised by [Prof. Lin Zhang](https://cslinzhang.gitee.io/home/).
+I am a Postdoc Scientist in Amazon Robotics, working on perception problems for real-world systems.
+I received my Ph.D. in in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/).
+Before coming to UMass, I got my Master's and Bachelor's degrees in the School of Software Engineering, Tongji University, advised by [Prof. Lin Zhang](https://cslinzhang.github.io/home/).
 My research interests are Automated Machine Learning and Computer Vision and mainly focus on Multi-Task Learning and Diffusion Models.
 
-**Update:** I'll join Amazon Robotics as a Postdoc Scientist in 2025 Summer. 
-
 ## News
+- **[June. 2025]**: Our work "[Reimagining Parameter Space Exploration with Diffusion Models](https://arxiv.org/pdf/2506.17807)" has been accepted to [ICML'25 EXAIT](https://exait-workshop.github.io/).
+- **[April. 2025]**: I have successfully defended my PhD Thesis on "Advanced Resource-Efficient Multi-Task Learning".
 - **[Sept. 2024]**: Our work "[Attack-Resilient Image Watermarking Using Stable Diffusion](https://arxiv.org/pdf/2401.04247)" has been accepted to [NeurIPS'24](https://nips.cc/).
 - **[Sept. 2024]**: Our work "[Thinking Forward: Memory-Efficient Federated Finetuning of Language Models](https://arxiv.org/pdf/2405.15551)" has been accepted to [NeurIPS'24](https://nips.cc/).
 - **[May. 2024]**: Start an internship at Advanced Technology Group (ATG) in Dolby Laboratories.
@@ -38,9 +39,6 @@ My research interests are Automated Machine Learning and Computer Vision and mai
 
 ## Services
 - **Reviewer:** 
-    - ICML 2023-2024
-    - ICLR 2023-2025
-    - CVPR 2024
-    - NeurIPS 2022-2024
-    - IEEE Transactions on Image Processing
-    - AIGC 2023-2024
+    - NeurIPS 2022-2025, ICML 2023-2025, ICLR 2023-2025
+    - CVPR 2024-2025, ICCV 2025
+    - IEEE TIP, TMLR
