@@ -13,6 +13,7 @@ Before coming to UMass, I got my Master's and Bachelor's degrees in the School o
 My research interests are Automated Machine Learning and Computer Vision and mainly focus on Multi-Task Learning and Diffusion Models.
 
 ## News
+- **[Sept. 2025]**: Our work "[Attacking all tasks at once using adversarial examples in multi-task learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021757)" has been accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing).
 - **[June. 2025]**: Our work "[Reimagining Parameter Space Exploration with Diffusion Models](https://arxiv.org/pdf/2506.17807)" has been accepted to [ICML'25 EXAIT](https://exait-workshop.github.io/).
 - **[April. 2025]**: I have successfully defended my PhD Thesis on "Advanced Resource-Efficient Multi-Task Learning".
 - **[Sept. 2024]**: Our work "[Attack-Resilient Image Watermarking Using Stable Diffusion](https://arxiv.org/pdf/2401.04247)" has been accepted to [NeurIPS'24](https://nips.cc/).

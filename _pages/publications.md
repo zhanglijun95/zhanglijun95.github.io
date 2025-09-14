@@ -9,10 +9,10 @@ author_profile: true
 - **[May 25] Communication-Efficient Multi-Device Inference Acceleration for Transformer Models.** [[PDF](https://arxiv.org/pdf/2505.19342?)]
 <br> Xiao Liu, **Lijun Zhang**, Deepak Ganesan, Hui Guan.
 
-- **[Dec. 23] Multi-Task Models Adversarial Attacks.** [[PDF](https://arxiv.org/pdf/2305.12066v3.pdf)]
+## Publicactions
+- **[Neurocomputing'25] Attacking all tasks at once using adversarial examples in multi-task learning.** [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021757)]
 <br> **Lijun Zhang**, Xiao Liu, Kaleel Mahmood, Caiwen Ding, Hui Guan.
 
-## Publicactions
 - **[EXAIT@ICML'25] Reimagining Parameter Space Exploration with Diffusion Models.** [[PDF](https://arxiv.org/pdf/2506.17807)]
 <br> **Lijun Zhang**, Xiao Liu, Hui Guan.
 
