@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 ## Preprints
-- **[May 25] Communication-Efficient Multi-Device Inference Acceleration for Transformer Models.** [[PDF](https://arxiv.org/pdf/2505.19342?)]
-<br> Xiao Liu, **Lijun Zhang**, Deepak Ganesan, Hui Guan.
+- **[Feb. 26] Visual Foresight for Robotic Stow: A Diffusion-Based World Model from Sparse Snapshots.** [[PDF](https://arxiv.org/pdf/2602.13347)]
+<br> **Lijun Zhang**, Nikhil Chacko, Petter Nilsson, Ruinian Xu, Shantanu Thakar, Xibai Lou,
+Harpreet S. Sawhney, Zhebin Zhang, Mudit Agrawal, Bhavana Chandrashekhar, Aaron Parness,
 
 ## Publicactions
+- **[ICML'26] Communication-Efficient Multi-Device Inference Acceleration for Transformer Models.** [[PDF](https://arxiv.org/pdf/2505.19342)]
+<br> Xiao Liu, **Lijun Zhang**, Deepak Ganesan, Hui Guan.
+
 - **[Neurocomputing'25] Attacking all tasks at once using adversarial examples in multi-task learning.** [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021757)]
 <br> **Lijun Zhang**, Xiao Liu, Kaleel Mahmood, Caiwen Ding, Hui Guan.
 
@@ -32,7 +36,7 @@ author_profile: true
 
 - **[NeurIPS'23] Flow: Per-instance Personalized Federated Learning.** [[PDF](http://guanh01.github.io/files/2023flow.pdf)][[Code](https://github.com/Astuary/Flow)]
 <br> Kunjal Panchal, Sunav Choudhary, Nisarg Parikh, **Lijun Zhang**, Hui Guan.
-<br> The 2023 Conference on Neural Information Processing Systems, Dec. 10-16, 2023.
+<br> The 2023 Conference on Neural Information Processing Systems, Dec.,0-16, 2023.
 
 - **[TNNLS'23] A Tree-Structured Multi-Task Model Architectures Recommendation System.** [[PDF](https://ieeexplore.ieee.org/document/10171463)][[Code](https://github.com/zhanglijun95/TreeMTL)]
 <br> **Lijun Zhang**, Xiao Liu, Hui Guan. 
@@ -48,11 +52,11 @@ author_profile: true
 
 - **[AutoML'22] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)][[Teaser](https://www.youtube.com/watch?v=t9r474WdBEQ)][[Video](https://www.youtube.com/watch?v=DobkdkBMFrg)]
 <br> **Lijun Zhang**, Xiao Liu, Hui Guan. 
-<br> 1st International Conference on Automated Machine Learning, July 25-27, 2022. (Acceptance rate: 19.2%)
+<br>,st International Conference on Automated Machine Learning, July 25-27, 2022. (Acceptance rate:,9.2%)
 
 - **[ICME'22] Rethinking Hard-Parameter Sharing in Multi-Domain Learning.** [[PDF](http://guanh01.github.io/files/2022rethinking.pdf)]
 <br> **Lijun Zhang**, Qizheng Yang, Xiao Liu, Hui Guan. 
-<br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), Taipei, Taiwan, July 18-22, 2022. (Acceptance rate: 29%)
+<br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), Taipei, Taiwan, July,8-22, 2022. (Acceptance rate: 29%)
 
 - **[ICDM'21] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](http://guanh01.github.io/files/2021rnn.pdf)]
 <br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, **Lijun Zhang**, and Xipeng Shen. 

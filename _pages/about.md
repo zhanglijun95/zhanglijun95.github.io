@@ -13,6 +13,7 @@ Before coming to UMass, I got my Master's and Bachelor's degrees in the School o
 My research interests are Automated Machine Learning and Computer Vision and mainly focus on Multi-Task Learning and Diffusion Models.
 
 ## News
+- **[May. 2026]**: Our work "[Communication-Efficient Multi-Device Inference Acceleration for Transformer Models](https://arxiv.org/pdf/2505.19342)" has been accepted to [ICML'26](https://icml.cc/).
 - **[Sept. 2025]**: Our work "[Attacking all tasks at once using adversarial examples in multi-task learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021757)" has been accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing).
 - **[June. 2025]**: Our work "[Reimagining Parameter Space Exploration with Diffusion Models](https://arxiv.org/pdf/2506.17807)" has been accepted to [ICML'25 EXAIT](https://exait-workshop.github.io/).
 - **[April. 2025]**: I have successfully defended my PhD Thesis on "Advanced Resource-Efficient Multi-Task Learning".
@@ -29,6 +30,7 @@ My research interests are Automated Machine Learning and Computer Vision and mai
 - **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" has been accepted to Information Systems.
 
 ## Awards
+- \[2026\] Gold Reviewer, ICML
 - \[2024\] UMass CICS PhD Dissertation Writing Fellowship
 - \[2023\] IBM Ph.D. Fellowship
 - \[2022\] Scholar Award & Top Reviewer, NeurIPS
