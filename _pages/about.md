@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoc Scientist in Amazon Robotics, working on perception problems for real-world systems.
-I received my Ph.D. in in the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/).
-Before coming to UMass, I got my Master's and Bachelor's degrees in the School of Software Engineering, Tongji University, advised by [Prof. Lin Zhang](https://cslinzhang.github.io/home/).
-My research interests are Automated Machine Learning and Computer Vision and mainly focus on Multi-Task Learning and Diffusion Models.
+I am an Assistant Professor in Computer Science at Zhejiang University of Technology. Before joining ZJUT, I was a Postdoctoral Scientist at Amazon Robotics, where I worked on perception and world modeling for robotic systems.
+
+I received my Ph.D. from the College of Information and Computer Sciences at the University of Massachusetts Amherst, advised by [Prof. Hui Guan](https://guanh01.github.io/). Before that, I received my Master's and Bachelor's degrees from the School of Software Engineering at Tongji University, advised by [Prof. Lin Zhang](https://cslinzhang.github.io/home/).
+
+My research lies at the intersection of automated machine learning and computer vision. My previous work has focused on resource-efficient multi-task learning, particularly task relationship modeling, parameter sharing, and automatic architecture design, as well as applying diffusion models beyond image generation to image restoration, watermarking, parameter-space exploration, and visual world modeling. I am currently extending this line of research toward adaptive and embodied agents, with an emphasis on how agents acquire, represent, and reuse knowledge through interaction with new tasks and environments.
 
 ## News
+- **[Aug. 27, 2026]**: I joined the faculty of Zhejiang University of Technology as an Assistant Professor in Computer Science.
 - **[May. 2026]**: Our work "[Communication-Efficient Multi-Device Inference Acceleration for Transformer Models](https://arxiv.org/pdf/2505.19342)" has been accepted to [ICML'26](https://icml.cc/).
 - **[Sept. 2025]**: Our work "[Attacking all tasks at once using adversarial examples in multi-task learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231225021757)" has been accepted to [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing).
 - **[June. 2025]**: Our work "[Reimagining Parameter Space Exploration with Diffusion Models](https://arxiv.org/pdf/2506.17807)" has been accepted to [ICML'25 EXAIT](https://exait-workshop.github.io/).
@@ -36,12 +38,13 @@ My research interests are Automated Machine Learning and Computer Vision and mai
 - \[2022\] Scholar Award & Top Reviewer, NeurIPS
 - \[2022\] Travel Grant Award, Conf-AutoML
 - \[2020\] The Lori a. Clarke Scholarship, UMass
-<!-- - Best Undergraduate & Graduate Thesis, Tongji University, Shanghai, 2016 & 2019 -->
-<!-- - Outstanding Graduates in Shanghai, Education Committee, Shanghai, 2016 & 2019  -->
-<!-- - National Scholarship for Graduate Students, Ministry of Education, China, 2018 -->
+- \[2019 & 2016\] Best Graduate & Undergraduate Thesis, Tongji University
+- \[2019 & 2016\] Outstanding Graduate in Shanghai
+- \[2018\] National Scholarship for Graduate Students
 
 ## Services
-- **Reviewer:** 
-    - NeurIPS 2022-2025, ICML 2023-2025, ICLR 2023-2025
-    - CVPR 2024-2025, ICCV 2025
-    - IEEE TIP, TMLR
+- **Area Chair:** ICLR 2027
+- **Conference Reviewer:**
+    - NeurIPS 2022-2026, ICML 2023-2026, ICLR 2023-2026, AAAI 2027
+    - CVPR 2024-2025, ICCV 2025, ECCV 2026
+- **Journal Reviewer:** TMLR Yearly Reviewer

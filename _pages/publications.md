@@ -6,11 +6,13 @@ author_profile: true
 ---
 
 ## Preprints
-- **[Feb. 26] Visual Foresight for Robotic Stow: A Diffusion-Based World Model from Sparse Snapshots.** [[PDF](https://arxiv.org/pdf/2602.13347)]
-<br> **Lijun Zhang**, Nikhil Chacko, Petter Nilsson, Ruinian Xu, Shantanu Thakar, Xibai Lou,
-Harpreet S. Sawhney, Zhebin Zhang, Mudit Agrawal, Bhavana Chandrashekhar, Aaron Parness,
+- **[arXiv'26] Simple Supervision Is Hard to Beat: A Bitter Lesson from Sparse Target Labels in Domain-Adaptive Object Detection.** [[PDF](https://arxiv.org/pdf/2606.30795)]
+<br> **Lijun Zhang**, Ruinian Xu, Mudit Agrawal.
 
-## Publicactions
+- **[arXiv'26] Visual Foresight for Robotic Stow: A Diffusion-Based World Model from Sparse Snapshots.** [[PDF](https://arxiv.org/pdf/2602.13347)]
+<br> **Lijun Zhang**, Nikhil Chacko, Petter Nilsson, Ruinian Xu, Shantanu Thakar, Xibai Lou, Harpreet S. Sawhney, Zhebin Zhang, Mudit Agrawal, Bhavana Chandrashekhar, Aaron Parness.
+
+## Publications
 - **[ICML'26] Communication-Efficient Multi-Device Inference Acceleration for Transformer Models.** [[PDF](https://arxiv.org/pdf/2505.19342)]
 <br> Xiao Liu, **Lijun Zhang**, Deepak Ganesan, Hui Guan.
 
@@ -36,7 +38,7 @@ Harpreet S. Sawhney, Zhebin Zhang, Mudit Agrawal, Bhavana Chandrashekhar, Aaron 
 
 - **[NeurIPS'23] Flow: Per-instance Personalized Federated Learning.** [[PDF](http://guanh01.github.io/files/2023flow.pdf)][[Code](https://github.com/Astuary/Flow)]
 <br> Kunjal Panchal, Sunav Choudhary, Nisarg Parikh, **Lijun Zhang**, Hui Guan.
-<br> The 2023 Conference on Neural Information Processing Systems, Dec.,0-16, 2023.
+<br> The 2023 Conference on Neural Information Processing Systems, December 10-16, 2023.
 
 - **[TNNLS'23] A Tree-Structured Multi-Task Model Architectures Recommendation System.** [[PDF](https://ieeexplore.ieee.org/document/10171463)][[Code](https://github.com/zhanglijun95/TreeMTL)]
 <br> **Lijun Zhang**, Xiao Liu, Hui Guan. 
@@ -52,17 +54,17 @@ Harpreet S. Sawhney, Zhebin Zhang, Mudit Agrawal, Bhavana Chandrashekhar, Aaron 
 
 - **[AutoML'22] A Tree-Structured Multi-Task Model Recommender.** [[PDF](http://guanh01.github.io/files/2022automl.pdf)][[Code](https://github.com/zhanglijun95/TreeMTL)][[Teaser](https://www.youtube.com/watch?v=t9r474WdBEQ)][[Video](https://www.youtube.com/watch?v=DobkdkBMFrg)]
 <br> **Lijun Zhang**, Xiao Liu, Hui Guan. 
-<br>,st International Conference on Automated Machine Learning, July 25-27, 2022. (Acceptance rate:,9.2%)
+<br> 1st International Conference on Automated Machine Learning, July 25-27, 2022.
 
 - **[ICME'22] Rethinking Hard-Parameter Sharing in Multi-Domain Learning.** [[PDF](http://guanh01.github.io/files/2022rethinking.pdf)]
 <br> **Lijun Zhang**, Qizheng Yang, Xiao Liu, Hui Guan. 
-<br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), Taipei, Taiwan, July,8-22, 2022. (Acceptance rate: 29%)
+<br> IEEE International Conference on Multimedia and Expo (ICME), Taipei, Taiwan, July 18-22, 2022. (Acceptance rate: 29%)
 
 - **[ICDM'21] Recurrent Neural Networks Meet Context-Free Grammar: Two Birds with One Stone.** [[PDF](http://guanh01.github.io/files/2021rnn.pdf)]
 <br> Hui Guan, Umang Chaudhary, Yuanchao Xu, Lin Ning, **Lijun Zhang**, and Xipeng Shen. 
 <br> In IEEE International Conference on Data Mining, 2021 (short paper). (Acceptance rate: 20% (198/990))
 
-- **[InformationSystems'21] Reuse-Centric K-Means Configuration.** [[PDF]](https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0)] 
+- **[Information Systems'21] Reuse-Centric K-Means Configuration.** [[PDF](https://authors.elsevier.com/sd/article/S0306-4379(21)00043-0)]
 <br> **Lijun Zhang**, Hui Guan, Yufei Ding, Xipeng Shen, Hamid Krim. 
 <br> Information Systems, 2021.
 
@@ -72,10 +74,9 @@ Harpreet S. Sawhney, Zhebin Zhang, Mudit Agrawal, Bhavana Chandrashekhar, Aaron 
 
 - **[ICME'18] Image Exposure Assessment: A Benchmark and A Deep Convolutional Neural Networks Based Model.** [[PDF](https://ieeexplore.ieee.org/abstract/document/8486569)]
 <br> **Lijun Zhang**, Lin Zhang, Xiao Liu, Ying Shen, Dongqing Wang. 
-<br> IEEE INTERNATIONAL CONFERENCE ON MULTIMEDIA AND EXPO (ICME), 2018.
+<br> IEEE International Conference on Multimedia and Expo (ICME), 2018.
 
 - **[ICONIP'17] Illumination Quality Assessment for Face Images: A Benchmark and a Convolutional Neural Networks Based Model.** [[PDF](https://link.springer.com/chapter/10.1007%2F978-3-319-70090-8_59)][[Code](https://github.com/zhanglijun95/FIIQA)]
 <br> **Lijun Zhang**, Lin Zhang, Lida Li. 
 <br> International Conference on Neural Information Processing, 2017.
-
 
